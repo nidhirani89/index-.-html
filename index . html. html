@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <style>
+            div.gallrey{
+                margin: 5px;
+                border: 1px solid #ccc;
+                float: left;
+                width: 180px;
+            }
+
+            div.gallery:hover {
+                border: 1px solid #777;
+            }
+
+            div.gallery img {
+                width: 100%;
+                height: auto;
+            }
+            div.desc {
+                padding: 15px;
+                text-align: center;
+            }
+        </style>
+        <body>
+            <div class="gallrey">
+                <a target="_blank" href="https://wallpapercave.com/wp/wp4377139.jpg">
+                    <img src="https://wallpapercave.com/wp/wp4377139.jpg" alt="" width="100px" height="100px">
+                </a>
+                <div class="desc"> add the discreption of the image here</div>
+            </div>
+            <div class="gallrey">
+                <a target="_blank" href="https://wallpapers.com/images/hd/aerial-city-view-p83u5jdzdjgesbxo.jpg">
+                    <img src="https://wallpapers.com/images/hd/aerial-city-view-p83u5jdzdjgesbxo.jpg" alt="" width="100px" height="100px">
+                </a>
+                <div class="desc" >add the discription of the image here</div>
+            </div>
+            <div class="gallrey">
+                <a target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9tr8NGxqse0mRVkY3I5maW2N45i4zo5FXlj2hgx-rlU-BPeNdAS0EpD84Al5ohq-qGV8&usqp=CAU">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9tr8NGxqse0mRVkY3I5maW2N45i4zo5FXlj2hgx-rlU-BPeNdAS0EpD84Al5ohq-qGV8&usqp=CAU" alt="" width="100px" height="100px">
+                </a>
+                <div class="desc">add the discription of the image here</div>
+            </div>
+            <div class="gallrey">
+                <a target="_blank" href="https://images.unsplash.com/photo-1502899576159-f224dc2349fa?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fHw%3D">
+                    <img src="https://images.unsplash.com/photo-1502899576159-f224dc2349fa?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fHw%3D" alt="" width="100px" height="100px">
+                </a>
+                <div class="desc">add the discription of the image here</div>
+            </div>
+            <div class="gallrey">
+                <a target="_blank" href="https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-111262/barcelona-city.jpg">
+                 <img src="https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-111262/barcelona-city.jpg" alt="" width="100px" height="100px">
+                </a>
+                <div class="desc">add the discription of the image here</div>
+            </div>
+            <div class="gallrey">
+                <a target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd3cGdSCxx25prZmteW49QY9MjFWWFv3c2mtNckFiiiZtw8_ZTDVZxMDc78BEcF3dIYE&usqp=CAU">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd3cGdSCxx25prZmteW49QY9MjFWWFv3c2mtNckFiiiZtw8_ZTDVZxMDc78BEcF3dIYE&usqp=CAU" alt="" width="100px" height="100px">
+                </a>
+                <div class="desc">add the discreption of the image here</div>
+
+            </div>
+        </body>
+    </head>
+</html>
